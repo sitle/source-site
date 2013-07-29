@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Git, le contrôleur de version décentralisé"
+date: 2013-07-28 18:34
+comments: true
+categories: 
+  - version
+  - git
+---
